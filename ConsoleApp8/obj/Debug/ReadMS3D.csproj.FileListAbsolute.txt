@@ -1,0 +1,14 @@
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ReadMS3D.csprojResolveAssemblyReference.cache
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ReadMS3D.csproj.CoreCompileInputs.cache
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+C:\Users\U_M0YK2\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\obj\Debug\ReadMS3D.csprojAssemblyReference.cache
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\obj\Debug\ReadMS3D.csproj.CoreCompileInputs.cache
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
+d:\Users\Gekk\Downloads\ConsoleApp81\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
